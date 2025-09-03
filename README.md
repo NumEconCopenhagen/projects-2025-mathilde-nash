@@ -1,9 +1,8 @@
-# [Group name]
+# [Mathilde&Nash]
 
 **Group members:**
-- A
-- B
-- C
+- Mathilde Højbjerg Wissing
+- Nashwan Ghali Al-Zyadi
 
 **This repository contains:***
 
